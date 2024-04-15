@@ -2914,7 +2914,7 @@ input, select, textarea {
 		header > .date {
 			display: block;
 			font-size: 0.8rem;
-			height: 1;
+			height: 1px;
 			margin: 0 0 1rem 0;
 			position: relative;
 		}
@@ -3914,11 +3914,11 @@ input, select, textarea {
 				}
 
 				#main > .posts > article:nth-child(n) {
-					border-left-width: 0;
+					border-left-width: 0px;
 				}
 
 				#main > .posts > article:nth-child(-n + 1) {
-					border-top-width: 0;
+					border-top-width: 0px;
 				}
 
 				#main > .posts > article .image {
@@ -4203,7 +4203,7 @@ input, select, textarea {
 		}
 
 			#footer > section:first-child {
-				border-left: 0;
+				border-left: 0px;
 			}
 
 			#footer > section.split {
