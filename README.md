@@ -1,6 +1,6 @@
 # Portfolio Website
 
-Welcome to the GitHub repository for my personal portfolio website. This site is designed to showcase my skills, work experience, and background as a analyst. You can view the deployed website at [nikithanallure.me](https://nikithanallure.me).
+Welcome to the GitHub repository for my personal portfolio website. This site is designed to showcase my skills, work experience, and background as a data analyst. You can view the deployed website at [nikithanallure.me](https://nikithanallure.me).
 
 ## About the Website
 
